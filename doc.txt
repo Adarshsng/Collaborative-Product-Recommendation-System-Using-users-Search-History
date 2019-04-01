@@ -1,0 +1,11 @@
+1.Libraries :- (a) textblob
+               (b) pandas
+               (c) numpy
+
+2.Module :-    (a) Recommender
+
+3.Inputs :-    (a) product.csv { list of product sold by company }
+               (b) Search.csv { list of user_id with there Search History }
+               (c) User unique id
+
+4.Output :-    (a) Recommendation for Products      
